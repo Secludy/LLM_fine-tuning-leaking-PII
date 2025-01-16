@@ -156,6 +156,7 @@ fine-tuning/src/*.pth
 *.bin
 *.model
 *.safetensors
+*.pt
 
 # ------------------------------
 # Miscellaneous
