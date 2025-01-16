@@ -27,7 +27,6 @@ echo "Installing unsloth..."
 pip install "unsloth[cu121-torch210] @ git+https://github.com/unslothai/unsloth.git"
 
 # Install packages with exact command
-pip install packaging unsloth-zoo faker matplotlib seaborn plotly reportlab datasets accelerate peft bitsandbytes transformers "trl>=0.8.0" "torch==2.1.0" scipy python-dotenv tensorboard
+pip install packaging unsloth-zoo datasets accelerate peft bitsandbytes transformers "trl>=0.8.0" "torch==2.1.0" scipy python-dotenv tensorboard
 
-pip install -U kaleido
 echo "Environment setup completed successfully!"
