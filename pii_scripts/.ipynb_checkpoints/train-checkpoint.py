@@ -325,7 +325,7 @@ def main(output_suffix=None):  # e.g. "no_dp_4_PII"
     current_dir = os.path.dirname(os.path.abspath(__file__))
     
     # Construct input/output paths
-    input_jsonl = os.path.join(current_dir, "data", "final_instruction_formatted_no_dp_4_PII.jsonl")
+    input_jsonl = os.path.join(current_dir, "data", f"final_instruction_formatted_{output_suffix}.jsonl")
     
     # Construct output paths based on suffix
     if output_suffix:
