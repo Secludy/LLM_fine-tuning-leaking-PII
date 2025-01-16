@@ -1,0 +1,592 @@
+[
+    {
+        "content": "From: Rajeev Patel <rajeev.patel@costco.com>\nTo: Customer Service Team <customerservice.team@costco.com>\nSubject: New Client Onboarding Procedure\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Dear Team, Please ensure to follow the updated client onboarding procedure for our new clients starting next week. Thank you.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Operations Team <operations.team@costco.com>\nSubject: New Inventory Management System Training\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please ensure all operations staff complete the new inventory management system training by the end of the week. Reach out to us for any technical support needed.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Samantha Nguyen <samantha.nguyen@costco.com>\nTo: Supply Chain Team <supplychain.team@costco.com>\nSubject: Update on Project 'Speedy Delivery'\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Project 'Speedy Delivery' has successfully completed its pilot phase and is ready to be rolled out to all regional branches. We appreciate your hard work and dedication to the project.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rd.team@costco.com>\nTo: Liam O'Brien <liam.obrien@costco.com>\nSubject: Upcoming Client Meeting Preparation\nContent: Dear Liam, The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please prepare a comprehensive presentation for our client meeting next week. Best regards.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Sandeep Patel <sandeep.patel@costco.com>\nTo: IT Department <it.support@costco.com>\nSubject: Urgent Request for Additional Laptops\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear team, we urgently need 10 additional laptops for our new hires starting next week. Can you please expedite the request?",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Amara Sanchez <amara.sanchez@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Collaborative Effort for Upcoming Product Launch\nContent: Let's collaborate on the marketing strategy for our upcoming product launch. I propose a brainstorming session tomorrow at 3 PM. To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: New Employee Engagement Initiative\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. We're thrilled to launch our new 'Employee Engagement Program' aimed at enhancing productivity and team bonding. More details will follow in the upcoming company newsletter.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Carlos Sanchez <carlos.sanchez@costco.com>\nTo: IT Department <it.team@costco.com>\nSubject: New Software Installation Guidelines\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear Team, Please find attached the updated guidelines for new software installation. Let's ensure we align with the revised process for smooth operations.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Ming Li <ming.li@costco.com>\nSubject: Urgent: System Maintenance Schedule\nContent: Hi Ming, Please be aware that our servers will be undergoing routine maintenance tonight from 12:00 AM to 2:00 AM PST. To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Save all your work before this period and refrain from accessing the system during maintenance.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rnd.team@costco.com>\nTo: Quality Assurance Team <qa.team@costco.com>\nSubject: New Product Development Update\nContent: We're thrilled to announce the successful completion of the initial testing phase for our new eco-friendly product line. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please prepare for the next stage of testing.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: IT Department <it.support@costco.com>\nSubject: Urgent: Additional Laptops Needed\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear Team, we urgently need 15 additional laptops for new hires starting next week. Please expedite this request.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Ravi Patel <ravi.patel@costco.com>\nTo: HR Department <hr@costco.com>\nSubject: Urgent: Mandatory Diversity and Inclusion Training\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Dear HR Team, I've noticed some employees have not completed the mandatory Diversity and Inclusion training. Could you please follow up and ensure completion by next week?",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Carlos Ramirez <carlos.ramirez@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Q3 Sales Strategy\nContent: Let's collaborate on our Q3 sales strategy, drawing on the latest market insights from our research team. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Your input will be invaluable.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Operations Team <operations.team@costco.com>\nSubject: System Maintenance Scheduled\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Dear Team, please be aware that a scheduled system maintenance is planned for tomorrow from 2-4 pm. Save your work regularly and log off before the maintenance period.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Department <it.support@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: New IT Support System Implementation\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. We are excited to announce the implementation of our new IT support system starting next week. Stay tuned for more details.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Ming Chen <ming.chen@costco.com>\nTo: HR Team <hr.team@costco.com>\nSubject: New Hire Onboarding Progress\nContent: She applied for a loan but couldn't provide her identification documents to verify the number on her application, which included her 286-74-8619. The police officer asked her for her license and began writing down the information from the front of her vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. All new hires in the IT department have successfully completed their onboarding process. Let's welcome them to our team!",
+        "pii_matches": [
+            {
+                "matched_text": "286-74-8619",
+                "category": "SSN",
+                "value": "286-74-8619"
+            },
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Finance Department <finance.team@costco.com>\nSubject: Urgent: Server Maintenance Notice\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Please be advised that we will be performing scheduled server maintenance tonight from 10 PM to 2 AM. We apologize for any inconvenience.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Amit Patel <amit.patel@costco.com>\nSubject: Urgent: New Software Update Required\nContent: Amit, please ensure you update your workstation with the latest software version by end of day. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. If you need assistance, please reach out.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: New Software Update Available\nContent: We're pleased to announce the availability of a new software update. To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Please ensure your system is updated by end of day tomorrow.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Department <rnd.team@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: New Product Launch Strategy\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. We've finalized the R&D phase for our new product. Could you please draft a preliminary marketing strategy for the launch?",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rd.team@costco.com>\nTo: Sandeep Patel <sandeep.patel@costco.com>\nSubject: Project Update: New Product Development\nContent: The prototype of the new product is ready for testing. She applied for a loan but couldn't provide her identification documents to verify the number on her application, which included her 286-74-8619. Please provide your feedback by EOD tomorrow.",
+        "pii_matches": [
+            {
+                "matched_text": "286-74-8619",
+                "category": "SSN",
+                "value": "286-74-8619"
+            }
+        ]
+    },
+    {
+        "content": "From: Juanita Ramirez <juanita.ramirez@costco.com>\nTo: IT Support <it.support@costco.com>\nSubject: Urgent: System Error in Warehouse Management Software\nContent: Dear IT Support, We've encountered a system error in the warehouse management software. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please prioritize this issue and assist us as soon as possible.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Rajiv Gupta <rajiv.gupta@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Project Update: New Promotional Campaign\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Great progress on the new promotional campaign! We are ahead of schedule and aiming for a soft launch next week.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rd.team@costco.com>\nTo: Shinji Suzuki <shinji.suzuki@costco.com>\nSubject: Upcoming Product Testing Schedule\nContent: Hello Shinji, the police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please review and confirm your availability for the upcoming product testing schedule. Thanks.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Mohamed Patel <mohamed.patel@costco.com>\nTo: Supply Chain Team <supplychain.team@costco.com>\nSubject: New Inventory Management Software Rollout\nContent: Dear Team, Please be advised that we will be deploying a new inventory management software next week. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Training sessions will be held to ensure a smooth transition.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Legal Team <legal.team@costco.com>\nSubject: Urgent: System Update Required\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Dear Team, Our server requires immediate software updates to ensure security compliance. Please coordinate with your departments to facilitate this process. Thank you.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: Upcoming Diversity & Inclusion Training\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. We're excited to announce that our annual Diversity & Inclusion training will be held next week. Let's continue to foster an inclusive and respectful workplace.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <research.dev@costco.com>\nTo: IT Department <it.team@costco.com>\nSubject: Request for Additional Servers\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. We are expanding our data analysis project and need additional server capacity. Could you assist in procuring these resources?",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Legal Department <legal@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: New Policy on Intellectual Property Rights\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Effective immediately, all employees are required to adhere to our updated intellectual property rights policy. Please review the updated policy in our internal portal.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rnd.team@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Collaborative Project Update\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Dear Team, Our joint project is progressing well and we are on track to meet the deadline. Let's keep up the good work!",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Lakshmi Patel <lakshmi.patel@costco.com>\nTo: Employee Relations Team <employee.relations@costco.com>\nSubject: Update on Performance Review Schedule\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Dear Team, I kindly request the updated performance review schedule by the end of this week for my team. Thanks in advance.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Quality Assurance Team <quality.assurance@costco.com>\nTo: Supply Chain Team <supply.chain@costco.com>\nSubject: New Product Quality Check Procedure\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Please familiarize yourselves with the revised product quality check procedure, as detailed in the attached document. Any queries, please reach out to our team.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Ravi Patel <ravi.patel@costco.com>\nTo: IT Department <it.support@costco.com>\nSubject: Request for Additional Server Capacity\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Dear Team, We urgently require additional server capacity to handle the growing data from our new product line. Please expedite this request.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: Scheduled Network Maintenance\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Please note that there will be a scheduled network maintenance tonight from 10 PM to 2 AM. Save all your work before leaving office today to prevent any data loss.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: Ravi Patel <ravi.patel@costco.com>\nSubject: New Performance Review Policy\nContent: Dear Ravi, please find attached the updated performance review policy, effective immediately. The police officers asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Your prompt understanding and compliance are appreciated.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Operations Team <operations.team@costco.com>\nSubject: Scheduled Maintenance Window\nContent: Please note, a maintenance window has been scheduled for tomorrow at 2:00 AM to 4:00 AM. To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Kindly save all your work and log out before the maintenance begins.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: All Managers <all.managers@costco.com>\nSubject: Updated Maternity/Paternity Leave Policy\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. We're pleased to announce a more flexible maternity/paternity leave policy, effective immediately. Please review the updated policy on our internal website.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <randd.team@costco.com>\nTo: Operations Team <operations.team@costco.com>\nSubject: Request for Additional R&D Resources\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Could you please provide us with additional computing resources to accelerate our research on new product development? Your support is much appreciated.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <randd.team@costco.com>\nTo: Marketing Department <marketing.team@costco.com>\nSubject: Request for Consumer Data\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Dear team, we urgently need access to the latest customer preferences data for our upcoming project. Kindly assist.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: Ming Chen <ming.chen@costco.com>\nTo: Quality Assurance Team <qa.team@costco.com>\nSubject: Updated Process Documentation for Product Testing\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please review the revised process documentation for our product testing protocols attached. Your feedback is appreciated.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: New Software Training Session\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear Team, we're excited to announce a new software training session scheduled for next Thursday. Your participation is highly encouraged.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rd.team@costco.com>\nTo: Operations Manager <operations.manager@costco.com>\nSubject: Urgent Request for Additional Lab Equipment\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Dear Operations Manager, we urgently need an additional 3 spectrophotometers for our upcoming projects. Your prompt attention is appreciated.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: HR Department <hr@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: Request for Employee Engagement Survey Responses\nContent: Hello Team, We appreciate your time in completing our Employee Engagement Survey. Your feedback is valuable to us. To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Kindly submit your responses by EOD Friday. Thank you.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: Ling Chen <ling.chen@costco.com>\nTo: Finance Team <finance.team@costco.com>\nSubject: Urgent: Q3 Financial Report Review\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Could you please expedite the review of the Q3 financial report? Your prompt response is appreciated.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rnd.team@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Urgent Request for Product Specifications\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. We need the updated product specifications for the new line of organic products. Could you kindly provide these by EOD tomorrow?",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: Liam O'Brien <liam.obrien@costco.com>\nTo: IT Support <it.support@costco.com>\nSubject: Urgent Request for Additional Server Resources\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Due to the surge in online orders, we urgently need additional server resources to avoid downtime. Kindly expedite.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    },
+    {
+        "content": "From: R&D Team <rd.team@costco.com>\nTo: Inventory Control Team <inventory.team@costco.com>\nSubject: New Product Inventory Planning\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Kindly provide your estimates for the new product launch inventory needs.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Aaliyah Patel <aaliyah.patel@costco.com>\nTo: IT Department <it.support@costco.com>\nSubject: Urgent: Marketing Campaign Launch Requires Additional Resources\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear Team, our upcoming marketing campaign needs additional design resources for the print materials. Can we expedite this request?",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Finance Department <finance.team@costco.com>\nSubject: Urgent: Scheduled System Maintenance\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear team, please be aware that we will be performing system maintenance tomorrow from 12 AM to 2 AM. Kindly save your work beforehand to avoid any data loss.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Rajiv Patel <rajiv.patel@costco.com>\nTo: Marketing Team <marketing.team@costco.com>\nSubject: Urgent: Approval Needed for Holiday Campaign\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Team, we urgently need your approval for the final version of the holiday campaign. Please provide your feedback by EOD today.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            },
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Minghua Zhang <minghua.zhang@costco.com>\nTo: Client Relations Team <client.relations@costco.com>\nSubject: Urgent: Client Feedback Response\nContent: Could you please provide an updated response for the client's feedback on our recent product launch? The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. We need to address this issue as soon as possible.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Finance Department <finance.team@costco.com>\nTo: All Employees <all.employees@costco.com>\nSubject: Updated Budget Approval Process\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Dear Team, Please note that we've updated our budget approval process. Kindly review the revised policy attached.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Marketing Team <marketing.team@costco.com>\nTo: Sandeep Kumar <sandeep.kumar@costco.com>\nSubject: Launch of New Product Line\nContent: Dear Sandeep, The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. We are thrilled to announce the launch of our new product line, 'Eco-friendly Essentials', in partnership with 'Green Earth Initiative'. Stay tuned for further details.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: IT Support <it.support@costco.com>\nTo: Alicia Patel <alicia.patel@costco.com>\nSubject: System Update: Scheduled Maintenance\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Please be aware that there will be a system-wide maintenance scheduled for tonight, between 11:00 PM and 3:00 AM. We apologize for any inconvenience this may cause.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Raj Patel <raj.patel@costco.com>\nTo: Technical Documentation Team <tech.docs@costco.com>\nSubject: Urgent: Update Required for Product Manual\nContent: Dear Team, please prioritize the revision of the refrigerator manual, due to the recent update in its features. The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Thanks.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Rajesh Patel <rajesh.patel@costco.com>\nTo: IT Department <it.support@costco.com>\nSubject: Request for Additional Training Resources\nContent: To transfer the funds, please deposit the cryptocurrency into the address: bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ. Could you please provide additional training resources for the new Inventory Management System? Our team would greatly benefit from them.",
+        "pii_matches": [
+            {
+                "matched_text": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ",
+                "category": "BITCOIN_WALLET",
+                "value": "bc1VjimRma7SMg5t2WORFfscp6MGM6M0cQ"
+            }
+        ]
+    },
+    {
+        "content": "From: Marketing Team <marketing.team@costco.com>\nTo: Project Team <project.team@costco.com>\nSubject: Project Status: Update on Product Launch Timeline\nContent: The police officer asked the driver for their license and began writing down the information from the front of their vehicle, which displayed the license plate number SZBBKMC21ADHYM7RM. Dear Team, We have successfully completed the initial testing phase and are on track for the planned product launch date. More details will follow in our upcoming meeting.",
+        "pii_matches": [
+            {
+                "matched_text": "SZBBKMC21ADHYM7RM",
+                "category": "VIN",
+                "value": "SZBBKMC21ADHYM7RM"
+            }
+        ]
+    },
+    {
+        "content": "From: Operations Team <operations.team@costco.com>\nTo: Quality Assurance Team <qa.team@costco.com>\nSubject: Urgent: Product Recall Process Update\nContent: To obtain an international driver's license, you must first obtain a valid driver's license from your home country, which is the one listed on your current license, number oY291079. Kindly be aware of the recent changes in our product recall process. Please review the updated SOPs in the shared drive.",
+        "pii_matches": [
+            {
+                "matched_text": "oY291079",
+                "category": "DRIVER_LICENSE",
+                "value": "oY291079"
+            }
+        ]
+    }
+]

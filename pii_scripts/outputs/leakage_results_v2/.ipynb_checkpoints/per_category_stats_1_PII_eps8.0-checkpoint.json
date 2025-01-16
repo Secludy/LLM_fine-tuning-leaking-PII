@@ -1,0 +1,26 @@
+{
+    "DRIVER_LICENSE": {
+        "total_pii": 1,
+        "detected_pii": 1,
+        "missing_pii": 0,
+        "detection_rate": 1.0
+    },
+    "VIN": {
+        "total_pii": 1,
+        "detected_pii": 1,
+        "missing_pii": 0,
+        "detection_rate": 1.0
+    },
+    "BITCOIN_WALLET": {
+        "total_pii": 1,
+        "detected_pii": 1,
+        "missing_pii": 0,
+        "detection_rate": 1.0
+    },
+    "SSN": {
+        "total_pii": 1,
+        "detected_pii": 1,
+        "missing_pii": 0,
+        "detection_rate": 1.0
+    }
+}

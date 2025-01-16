@@ -1,0 +1,194 @@
+# ------------------------------
+# OS Generated Files
+# ------------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ------------------------------
+# Python Specific
+# ------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.venv/
+
+# Pytest
+.cache/
+pytest_cache/
+.cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Cython debug symbols
+cython_debug/
+
+# ------------------------------
+# IDE and Editor Specific
+# ------------------------------
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Emacs
+*~
+\#*\#
+
+# Vim
+*.swp
+.swp
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# ------------------------------
+# Logs and Databases
+# ------------------------------
+
+*.log
+*.sqlite3
+*.db
+
+# ------------------------------
+# Data Directories
+# ------------------------------
+
+# Ignore all data directories (uncomment if you want to exclude all)
+# data/
+# data_unsloth/
+
+# Alternatively, ignore specific generated data directories:
+fine-tuning/canary_generator/data/generated_pii/
+fine-tuning/canary_generator/data/generated_sentences/
+fine-tuning/canary_generator/data/processed_sentences/
+fine-tuning/data_unsloth/
+
+# Example Usage Generated Files
+fine-tuning/example_usage/leakage_report.pdf
+fine-tuning/example_usage/leakage_results.json
+fine-tuning/example_usage/missing_pii_entries.json
+fine-tuning/example_usage/modified_dataset.json
+fine-tuning/example_usage/modified_extracted_emails.jsonl
+fine-tuning/example_usage/per_category_stats.json
+
+# PII Scripts Outputs
+fine-tuning/pii_scripts/outputs/
+
+# Temporary Saved Buffers
+fine-tuning/_unsloth_temporary_saved_buffers/
+
+# ------------------------------
+# Executable and Binary Files
+# ------------------------------
+
+# CUDA installer
+fine-tuning/cuda_11.8.0_520.61.05_linux.run
+
+# Model Weights
+fine-tuning/_unsloth_temporary_saved_buffers/
+fine-tuning/src/__pycache__/
+fine-tuning/src/*.pt
+fine-tuning/src/*.pth
+*.bin
+*.model
+*.safetensors
+
+# ------------------------------
+# Miscellaneous
+# ------------------------------
+
+# Shell scripts
+*.sh~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Compressed files
+*.tgz
+*.zip
+*.7z
+*.tar.gz
+
+# ------------------------------
+# Custom Exclusions
+# ------------------------------
+
+# Outputs directory
+fine-tuning/outputs/
+
+# Generated spam examples
+fine-tuning/generated_spam_examples.json
+
+# ------------------------------
+# End of .gitignore
+# ------------------------------
+
