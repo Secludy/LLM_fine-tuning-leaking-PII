@@ -157,6 +157,7 @@ fine-tuning/src/*.pth
 *.model
 *.safetensors
 *.pt
+trained_model_*
 
 # ------------------------------
 # Miscellaneous
