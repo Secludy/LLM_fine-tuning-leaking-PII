@@ -158,6 +158,7 @@ fine-tuning/src/*.pth
 *.safetensors
 *.pt
 trained_model_*
+.ipynb_checkpoints
 
 # ------------------------------
 # Miscellaneous
